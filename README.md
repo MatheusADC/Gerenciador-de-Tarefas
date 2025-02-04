@@ -1,10 +1,10 @@
-# Descrição
+# <img src="https://github.com/user-attachments/assets/caabfdf0-0f9e-44a3-8200-c6579fe87887" alt="ícone de descrição" width="28"> Descrição
 O programa possibilita a coordenação das tarefas criadas bem como o monitoramento do status dessas atividades.
 
 ### Terminal - Menu
 ![image](https://github.com/user-attachments/assets/e78f1a79-2a09-4130-8465-b6e62ba0d511)
 
-# Funções
+# <img src="https://github.com/user-attachments/assets/644e4582-4a64-437a-8da3-b8d04e662dee" alt="ícone do Python" width="28">  Funções
 ## 1. Adicionar tarefa
 Adiciona o nome da tarefa ao escolher a opção de número "1".
 
